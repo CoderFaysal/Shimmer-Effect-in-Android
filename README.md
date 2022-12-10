@@ -16,7 +16,7 @@
 implementation 'com.facebook.shimmer:shimmer:0.5.0'
 ```
 
-##### now click on * Sync now * it will sync your all files in build.gradle().
+##### now click on *Sync now* it will sync your all files in build.gradle().
 
 
 
